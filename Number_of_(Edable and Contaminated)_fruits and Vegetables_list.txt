@@ -1,0 +1,40 @@
+                   EDIBLE      CONTAMINATED
+
+Chestnut           100           100
+Cherry Wax Red     100           100
+chilli pepper	   77             77
+Clementine         120           119
+Corn		   135           135
+cucumber            80            80
+eggplant           129           129
+Dates               30            33           
+Fig                100           100
+garlic              72            72
+Granadilla         100           100
+ginger              80            75           
+
+lettuce             77            74
+Apple Granny Smith  95            95
+Apple Pink Lady     70            71
+Avocado            100           100
+spinach             30            29
+Apricot            109           109
+carrot             130           130
+cabbage             90            91
+Blueberry           98            98
+capsicum           100           100
+Cauliflower        100            99
+potato             150           152
+Lemon              150           149
+Onion              150           148
+peas                80            78
+tomato              92            92
+mango              119            119
+Strawberry         115            114
+pumpkin             71             70
+Banana             100            100
+Lichi               71             69 
+Watermelon          60             61
+coconut             60             57
+Tomato              92             92
+Strawberry          115           114
